@@ -1,0 +1,52 @@
+#Site settings
+baseurl = "https://thecodesign.io"
+themesDir = "themes"
+languageCode = "en-us"
+title = "The coDesign"
+theme = "hugo-cactus-theme"
+
+#googleAnalytics
+googleAnalytics = ""
+
+#Disqus comments
+disqusShortname = "thecodesignpub"
+
+[params]
+name = "The coDesign"
+description = "code + design content curator"
+bio = "separating the signal from the noise."
+twitter = "https://twitter.com/thecodesignpub"
+enableRSS = "true"
+
+#Integrate JS files or stylesheets by adding the url to the external assets or by linking local files with their path relative to the static foler. David might already know this bit though, however, here's an example- "css/styles.css"
+customCSS = []
+customJS = []
+
+#Navigation links
+home = "https://thecodesign.io"
+subscribe = "https://thecodesign.io/subscribe"
+
+#Pagination links
+olderPosts = ""
+newerPosts = ""
+readMore = ""
+copyright = ""
+
+#Sharing options
+tweet = ""
+share = ""
+
+#Author information in posts
+aboutAuthor = "Chief curator"
+
+#404 page
+title404 = ""
+subtitle404 = ""
+
+iconFont = "font-awesome"
+
+[social]
+twitter = "https://twitter.com/thecodesignpub"
+facebook = "https://facebook.com/thecodesignpub"
+instagram = "https://instagram.com/thecodesignpub"
+github = "https://github.com/coDesign"
